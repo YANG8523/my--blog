@@ -1,11 +1,23 @@
 ---
-title: Hello World
+title: 邻里拼饭服务设计
+date: 2020-04-28 11:00:00
+photos: https://picsum.photos/600/400/?
+tags:
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+对于很多不会做饭、没时间做饭或者本就不爱做饭的人来说，一到吃饭的时间就相对苦恼，而且大多数在外漂泊的人最想念的还是家里做的饭，如何才能让这部分用户拒绝存在卫生安全隐患的外卖，拒绝地沟油、方便面等不健康食品的同时，也能感受到家的味道？
 
-### Create a new post
+## 以社区为单位，邻里家常饭共享
+孩子成长过程中所处的社区及其社区里的邻里关系对他们的生活产生重要的影响。健康、友好的邻里关系可以给孩子提供安全感、稳定感和亲密感，这有助于促进孩子的社会认知，同时培养孩子分担社会责任的意识。日常中带着孩子与邻居之间经常交流，同龄孩子之间建立起友好真挚的感情，在对于孩子的心理健康方面起到很大正面作用。反之，子女作为用户最为关注一个话题，常常让聊天中变得有话可聊，孩子也会成为构建邻里关系的一座桥梁。
+
+## “求全”心理到“求同”心理
+旧时传统“熟人社会” ，人们身处一个熟悉的社会，一个没有陌生人的社会。这就显得“求全”心理很重要，邻居之间的社交基于在对方全面了解之下。
+今时的社会人员流动非常大，频繁的调动、离职等，人际关系从“熟人社会”向“半熟人社会”退化。在这样的背景下，在与邻居的交往中，更注重“求同”心理。
+
+
+
+
+
 
 ``` bash
 $ hexo new "My New Post"
